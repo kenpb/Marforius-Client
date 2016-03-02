@@ -9,7 +9,7 @@ TESTED ON ENUS
 = Why should I use this?
 
 * To reduce the client's size on disk by 4.1 GBs.
-* To enable a scripter or developer to have full control of the client's interface and access secured methods in Lua.
+* To unlock all (except the hardcoded ones) the protected methods in Lua.
 * Built in account selector/saver
 * Built in server selector (saver planned)
 * Built in temporary realmlist changer
